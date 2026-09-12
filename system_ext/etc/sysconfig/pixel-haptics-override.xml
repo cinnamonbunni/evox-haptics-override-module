@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <component-override package="com.google.android.pixelsystemservice">
+        <component class="com.google.android.apps.haptics.HapticsContentProvider" enabled="false"/>
+        <component class="com.google.android.haptics.AdaptiveHapticsService" enabled="false"/>
+        <component class="com.google.android.apps.pixel.vibrator.PixelAudioHapticPlayerService" enabled="false"/>
+        <component class="com.google.android.apps.pixel.vibrator.PixelAudioHapticAdapter" enabled="false"/>
+    </component-override>
+</config>
