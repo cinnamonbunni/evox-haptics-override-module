@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.7
-versionCode=19
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=disable_pixel_haptics
+name=Disable Pixel Haptics Components
+version=v1.0
+versionCode=1
+author=Quince
+description=Disables crashing Pixel audio-haptics components and services in PixelSystemService via sysconfig component-override.
