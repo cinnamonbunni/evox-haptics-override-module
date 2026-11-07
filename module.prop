@@ -1,6 +1,6 @@
-id=disable_pixel_haptics
-name=Disable Pixel Haptics Components
+id=despairfulpowerhinttanzanitetest
+name=Despairful Powerhint
 version=v1.0
 versionCode=1
 author=cinnamonbunni
-description=Disables crashing Pixel audio-haptics components and services in PixelSystemService via sysconfig component-override.
+description=Despair in danganronpa!
